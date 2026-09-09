@@ -1,1 +1,2 @@
 # Guía colaborativa de Git
+
