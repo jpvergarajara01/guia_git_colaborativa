@@ -1,15 +1,11 @@
 # Guía colaborativa de Git
-
 Este repositorio es un ejercicio práctico para aprender Git en parejas.
 
 ## Objetivo
-Dominar Git para trabajo colaborativo.
+Aprender a usar ramas y merges.
 
-## Flujo de trabajo básico
-1. Editar archivos
-2. git add
-3. git commit
-4. git push
-
-## Objetivo 
-Aprender Git de forma práctica. Guardar con un commit.
+## Conceptos básicos de Git 
+- Repositorio
+- Commit
+- Rama
+- Merge
