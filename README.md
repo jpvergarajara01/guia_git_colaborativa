@@ -11,3 +11,5 @@ Dominar Git para trabajo colaborativo.
 3. git commit
 4. git push
 
+## Objetivo 
+Aprender Git de forma práctica. Guardar con un commit.
