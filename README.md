@@ -1,1 +1,1 @@
-# guia_git_colaborativa
+# Guía colaborativa de Git
